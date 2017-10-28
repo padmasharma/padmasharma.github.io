@@ -23,7 +23,7 @@ description: Academic website
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/og_claudia.png"
+avatar: "/img/404-southpark.jpg"
 
 # List of links in the navigation bar
 navbar-links:
@@ -42,7 +42,7 @@ author:
   github: trambakbanerjee    # eg. daattali
   #twitter: charlottehase   # eg. daattali
   linkedin: in/trambakbanerjee  # eg. "pub/dean-attali/8/946/143"
-  og_image: "/img/og_claudia.png"
+  og_image: "/img/404-southpark.jpg"
 
 # Select which links to show in the footer
 footer-links-active:
