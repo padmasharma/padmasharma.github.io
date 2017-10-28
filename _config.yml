@@ -17,7 +17,7 @@ baseurl: ""
 title: Trambak Banerjee
 
 # Short description of your site
-description: Academic website
+description: PhD candidate in Statistics
 
 # --- Navigation bar options --- #
 
@@ -32,6 +32,7 @@ navbar-links:
   #Datasets: "datasets"
   Publications / Articles in review: "index#publications--articles-in-review"
   Software: "index#software-and-datasets"
+  Contact: "index#contact
   
   # --- Background colour/image options --- #
 
