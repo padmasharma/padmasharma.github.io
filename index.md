@@ -2,6 +2,39 @@
 layout: page
 subtitle: PhD candidate in Statistics
 ---
+<table>
+<tbody>
+<tr valign="top">
+<td style="width:0px;height:1227px">
+<div>
+<div style="text-align:center">
+<div></div>
+<br>
+</div>
+<br>
+</div>
+</td>
+<td style="width:1336px;height:1227px">
+<table>
+<tbody>
+<tr>
+<td style="width:220px;height:300px">
+<font color="#0b5394" face="georgia, serif"><a href="IMGLINKTARGET"><img alt="alt text" height="HEIGHTpx" src="https://www.marshall.usc.edu/sites/default/files/styles/202x280/public/trambakb/pci/Banerjee-Trambak-1.jpg" width="WIDTHpx"></a>&nbsp;</font></td>
+<td align="left" style="width:505px;height:300px">
+<h1><font color="#0b5394" face="georgia, serif" size="5">Trambak Banerjee</font></h1>
+<hr>
+<p><font color="#0b5394" face="georgia, serif" size="3"><b>Email:</b> Trambak[dot]Banerjee[dot]2020[at]marshall[dot]usc[dot]edu</font></p>
+<p><font color="#0b5394" face="georgia, serif" size="3"><b>Address:</b> 
+<a href="http://www.marshall.usc.edu/" target="_blank">USC Marshall School of Business</a><br>
+303E Bridge Hall<br>
+3670 Trousdale Parkway<br>
+University of Southern California<br>
+ 
+Los Angeles, CA 90089-0809</font></p>
+</td>
+</tr>
+</tbody>
+</table>
 
 I am a third year PhD candidate in [Statistics](http://www-bcf.usc.edu/~gareth/StatGroup/) co-advised by Prof. [Gourab Mukherjee](https://gmukherjee.github.io/) and Prof. [Wenguang Sun](http://www-bcf.usc.edu/~wenguans/) in the department of [Data Sciences and Operations](https://www.marshall.usc.edu/departments/data-sciences-and-operations) at [USC Marshall School of Business](https://www.marshall.usc.edu/). I received my MS degree in Statistics from the [Indian Statistical Institute](http://www.isical.ac.in/) and a BS degree in Statistics from [St. Xavier's College, Kolkata](http://www.sxccal.edu/departments/BScStatistics/BScStatistics.htm).
 
