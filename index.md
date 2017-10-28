@@ -10,8 +10,8 @@ subtitle: PhD candidate in Statistics
 <font color="#0b5394" face="georgia, serif"><a href="IMGLINKTARGET"><img alt="alt text" height="HEIGHTpx" src="https://www.marshall.usc.edu/sites/default/files/styles/202x280/public/trambakb/pci/Banerjee-Trambak-1.jpg" width="WIDTHpx"></a>&nbsp;</font></td>
 <td align="left" style="width:505px;height:300px">
    <p><font size="5"><b>Trambak Banerjee</b></font><br>
-      <font size="3"><b>PhD candidate in Statistics</b></font><br>
-   <hr width = "60%" border="0.5px" aligh="left"></p>
+      <font color="#eae8e8" size="3"><b>PhD candidate in Statistics</b></font><br>
+   <hr width = "60%" border="0.8px"></p>
 <p><font size="3"><b>Email:</b> Trambak[dot]Banerjee[dot]2020[at]marshall[dot]usc[dot]edu</font><br>
 <font size="3"><b>Address:</b> 
 <a href="http://www.marshall.usc.edu/" target="_blank">USC Marshall School of Business</a><br>
