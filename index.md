@@ -1,7 +1,5 @@
 ---
 layout: page
-title: 
-subtitle: PhD candidate in Statistics
 ---
 
 ## About me
