@@ -29,3 +29,8 @@ __Application__
 
 3. High-dimensional datasets - An excellent collection of some high-dimensional genomic datasets at [John Ramey's github page](https://github.com/ramhiser/datamicroarray#datamicroarray). Also, please look at [Brad Effron's page](http://statweb.stanford.edu/~ckirby/brad/LSI/datasets-and-programs/datasets.html).
 
+__Contact__:3670 Trousdale Parkway, Bridge Hall 303E, Los Angeles, CA 90089-0809
+
+
+
+
