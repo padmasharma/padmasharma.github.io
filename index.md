@@ -12,6 +12,10 @@ Prior to joining USC, I have served as a quantitative modeler at [FICO](http://w
 
 ## Publications / Articles in review
 
+### Theory and Methods
+
+### Application
+
 
 ## Software and Datasets
 
