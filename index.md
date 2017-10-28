@@ -7,6 +7,8 @@ I am a third year PhD candidate in [Statistics](http://www-bcf.usc.edu/~gareth/S
 
 Prior to joining USC, I have served as a quantitative modeler at [FICO](http://www.fico.com) and [Evalueserve](http://www.evalueserve.com) where I have developed statistical models for credit scoring and for estimating banking regulatory capital pertaining to Credit and Operational risk events. 
 
+__Research Interests__: Empirical Bayes methods, Sparse estimation theory, Joint modeling of Longitudinal and Time-to-Event data, Computational Statistics
+
 ### Publications / Articles in review
 __Theory and Methods__
 
