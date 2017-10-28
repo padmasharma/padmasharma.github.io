@@ -3,7 +3,7 @@ layout: page
 subtitle: PhD candidate in Statistics
 ---
 
-<table>
+<table bordercolor="#ffffff">
 <tbody>
 <tr>
 <td style="width:220px;height:300px">
