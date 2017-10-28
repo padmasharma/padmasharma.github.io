@@ -1,5 +1,6 @@
 --- 
 layout: page
+subtitle: PhD candidate in Statistics
 ---
 
 I am a third year PhD candidate in [Statistics](http://www-bcf.usc.edu/~gareth/StatGroup/) co-advised by Prof. [Gourab Mukherjee](https://gmukherjee.github.io/) and Prof. [Wenguang Sun](http://www-bcf.usc.edu/~wenguans/) in the department of [Data Sciences and Operations](https://www.marshall.usc.edu/departments/data-sciences-and-operations) at [USC Marshall School of Business](https://www.marshall.usc.edu/).
