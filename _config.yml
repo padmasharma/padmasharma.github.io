@@ -30,7 +30,8 @@ navbar-links:
   #Blog: "blog"
   #Teaching: "teaching"
   #Datasets: "datasets"
-  Publications/Articles in review: "publications"
+  Publications/Articles in review: "index.md#publications--articles-in-review"
+  Software: "index.md#software-and-datasets"
  
 # --- Footer options --- #
 
