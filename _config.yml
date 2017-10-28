@@ -30,7 +30,7 @@ navbar-links:
   #Blog: "blog"
   #Teaching: "teaching"
   #Datasets: "datasets"
-  Publications/Articles in review: "index#publications--articles-in-review"
+  Publications / Articles in review: "index#publications--articles-in-review"
   Software: "index#software-and-datasets"
   
   # --- Background colour/image options --- #
