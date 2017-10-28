@@ -4,19 +4,6 @@ subtitle: PhD candidate in Statistics
 ---
 <table>
 <tbody>
-<tr valign="top">
-<td style="width:0px;height:1227px">
-<div>
-<div style="text-align:center">
-<div></div>
-<br>
-</div>
-<br>
-</div>
-</td>
-<td style="width:1336px;height:1227px">
-<table>
-<tbody>
 <tr>
 <td style="width:220px;height:300px">
 <font color="#0b5394" face="georgia, serif"><a href="IMGLINKTARGET"><img alt="alt text" height="HEIGHTpx" src="https://www.marshall.usc.edu/sites/default/files/styles/202x280/public/trambakb/pci/Banerjee-Trambak-1.jpg" width="WIDTHpx"></a>&nbsp;</font></td>
