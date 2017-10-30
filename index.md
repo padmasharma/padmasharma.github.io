@@ -2,7 +2,10 @@
 layout: page
 subtitle: PhD candidate in Statistics
 ---
-
+<style>
+body {
+text-align: justify}
+</style>
 <table bordercolor="#ffffff">
 <tbody>
 <tr>
