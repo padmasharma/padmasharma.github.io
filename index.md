@@ -36,15 +36,15 @@ __Research Interests__: Empirical Bayes methods, Sparse estimation theory, Joint
 __Theory and Methods__
 
 1. [Adaptive Sparse Estimation with Side Information.](http://www-bcf.usc.edu/~wenguans/Papers/ASUS.pdf)             
-   Banerjee T, Mukherjee G and Sun W. (under review)
+   Banerjee T, Mukherjee G and Sun W. _(under review)_
 
 2. [Feature Screening in Large Scale Cluster Analysis.](https://doi.org/10.1016/j.jmva.2017.08.001)                    
    Banerjee T, Mukherjee G and Radchenko P.                                 
-   Journal of Multivariate Analysis (2017), Volume 161, Pages 191-212, 
+   _Journal of Multivariate Analysis (2017), Volume 161, Pages 191-212_ 
 
 __Application__
 
-1. [Mass Cytometric Analysis of HIV Entry, Replication, and Remodeling in Tissue CD4+ T Cells.](https://www.ncbi.nlm.nih.gov/pubmed/28746881) With Nadia Roan ([UCSF Roan lab](https://roanlab.ucsf.edu/))                      Cell Reports (2017), Volume 20, Issue 4, 984 - 998
+1. [Mass Cytometric Analysis of HIV Entry, Replication, and Remodeling in Tissue CD4+ T Cells.](https://www.ncbi.nlm.nih.gov/pubmed/28746881) With Nadia Roan ([UCSF Roan lab](https://roanlab.ucsf.edu/))                          _Cell Reports (2017), Volume 20, Issue 4, 984 - 998_
 
 ### Software and Datasets
 
