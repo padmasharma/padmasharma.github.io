@@ -14,7 +14,7 @@ text-align: justify}
 <td align="left" style="width:505px;height:300px">
    <p><font size="5"><b>Trambak Banerjee</b></font><br>
       <font color="#9b9999" size="4"><b>PhD candidate in Statistics</b></font><br>
-   <hr width = "80%" margin-left:0 align="left" border="1px" color = "#dddbdb"></p>
+   <hr width = "80%" margin-left:0 align="left" border="1px" color = "918f8f"></p>
 <p><font size="3"><b>Email:</b> Trambak.Banerjee.2020[at]marshall.usc.edu</font><br>
 <font size="3"><b>Address:</b> 
 <a href="http://www.marshall.usc.edu/" target="_blank">USC Marshall School of Business</a><br>
