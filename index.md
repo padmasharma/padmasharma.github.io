@@ -44,7 +44,8 @@ __Theory and Methods__
 
 __Application__
 
-- [Mass Cytometric Analysis of HIV Entry, Replication, and Remodeling in Tissue CD4+ T Cells.](https://www.ncbi.nlm.nih.gov/pubmed/28746881) With Nadia Roan ([UCSF Roan lab](https://roanlab.ucsf.edu/))                          _Cell Reports (2017), Volume 20, Issue 4, 984 - 998_
+- [Mass Cytometric Analysis of HIV Entry, Replication, and Remodeling in Tissue CD4+ T Cells.](https://www.ncbi.nlm.nih.gov/pubmed/28746881) 
+With Nadia Roan ([UCSF Roan lab](https://roanlab.ucsf.edu/)). _Cell Reports (2017), Volume 20, Issue 4, 984 - 998_
 
 ### Software and Datasets
 
