@@ -10,7 +10,7 @@ text-align: justify}
 <tbody>
 <tr>
 <td style="width:220px;height:300px">
-<font color="#0b5394" face="georgia, serif"><a href="IMGLINKTARGET"><img alt="alt text" height="HEIGHTpx" src="https://www.marshall.usc.edu/sites/default/files/styles/202x280/public/trambakb/pci/Banerjee-Trambak-1.jpg" width="WIDTHpx"></a>&nbsp;</font></td>
+<font color="#0b5394" face="georgia, serif"><a href="IMGLINKTARGET"><img alt="alt text" height="HEIGHTpx" src="" width="WIDTHpx"></a>&nbsp;</font></td>
 <td align="left" style="width:505px;height:300px">
    <p><font size="5"><b>Trambak Banerjee</b></font><br>
       <font color="#9b9999" size="4"><b>PhD candidate in Statistics</b></font><br>
