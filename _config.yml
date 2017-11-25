@@ -4,20 +4,16 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://trambakbanerjee.github.io"
+url: "http://padmasharma.github.io"
 baseurl: ""
-
-# If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Trambak's Homepage                           
+title: Padma Sharma                           
        
 # Short description of your site
-description: PhD candidate in Statistics
+description: PhD candidate in Economics
 
 # --- Navigation bar options --- #
 
@@ -30,10 +26,10 @@ navbar-links:
   #Blog: "blog"
   #Teaching: "teaching"
   #Datasets: "datasets"
-  Publications / Articles in review: "index#publications--articles-in-review"
-  Software: "index#software-and-datasets"
+  Working papers: "index#working-papers"
+  #Software: "index#software-and-datasets"
   Teaching: "index#teaching"
-  CV: "index"
+  CV: "index#CV"
   #Contact: "index#contact
   
   # --- Background colour/image options --- #
@@ -54,11 +50,11 @@ footer-col: "#f7f7f7"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Trambak Banerjee
-  email: "Trambak.Banerjee.2020[at]marshall.usc.edu"
-  github: trambakbanerjee    # eg. daattali
+  name: Padma Ranjini Sharma
+  email: "padmas[at]uci.edu"
+  github: padmaranjini    # eg. daattali
   #twitter: charlottehase   # eg. daattali
-  linkedin: in/trambak-banerjee-8629704 # eg. "pub/dean-attali/8/946/143"
+  #linkedin: in/trambak-banerjee-8629704 # eg. "pub/dean-attali/8/946/143"
   og_image: "/img/mecrop.jpg"
 
 # Select which links to show in the footer
@@ -67,8 +63,8 @@ footer-links-active:
   facebook: false
   email: true
   twitter: false
-  github: true
-  linkedin: true
+  github: false
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -80,7 +76,7 @@ footer-links-active:
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-108825321-1"
+google_analytics: "UA-110200719-1"
 
 #pagination
 gems: [jekyll-paginate]
