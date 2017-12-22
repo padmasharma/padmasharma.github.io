@@ -44,25 +44,35 @@ and develop an efficient collapsed Gibbs sampler to estimate such models in univ
 I discuss issues pertaining to identification, prior sensitivity and identify constraints on the data that ensure that the posterior 
 means are centered around the true parameter values. 
 
-- [Feature Screening in Large Scale Cluster Analysis.](https://doi.org/10.1016/j.jmva.2017.08.001)                    
-   Banerjee T, Mukherjee G and Radchenko P.                                 
-   _Journal of Multivariate Analysis (2017), Volume 161, Pages 191-212_ 
+- Heterogeneity in the Resolution of Bank Failures: A
+Latent Class Approach
 
-__Application__
-
-- [Mass Cytometric Analysis of HIV Entry, Replication, and Remodeling in Tissue CD4+ T Cells.](https://www.ncbi.nlm.nih.gov/pubmed/28746881) 
-With Nadia Roan ([UCSF Roan lab](https://roanlab.ucsf.edu/)). _Cell Reports (2017), Volume 20, Issue 4, 984 - 998_
-
-### Software and Datasets
-
-- [fusionclust](https://github.com/trambakbanerjee/fusionclust#fusionclust) - An R package for clustering and feature screening in large scale problems. In particular, fusionclust provides the [Big Merge Tracker (BMT)](http://onlinelibrary.wiley.com/doi/10.1111/rssb.12226/abstract) and [COSCI](http://www.sciencedirect.com/science/article/pii/S0047259X17300271) algorithms for convex clustering and feature screening using an ℓ1 fusion penalty.
-
-- [asus](https://github.com/trambakbanerjee/asus#asus) - An R package that implements the [ASUS (Adpative SURE thresholding with Side Information) procedure](http://www-bcf.usc.edu/~wenguans/Papers/ASUS.pdf) for estimating a high-dimensional sparse parameter when along with the primary data we can also gather side information from secondary data sources.
-
-- High-dimensional datasets - An excellent collection of some high-dimensional genomic datasets at [John Ramey's github page](https://github.com/ramhiser/datamicroarray#datamicroarray). Also, please look at [Brad Effron's page](http://statweb.stanford.edu/~ckirby/brad/LSI/datasets-and-programs/datasets.html).
+This paper investigates the resolution of failed banks by the FDIC and uncovers a dichotomy in the manner 
+in which cases were administered when local economic conditions were normal against when they were distressed.
+I use a latent class model for ordinal outcomes to frame the FDIC's decision problem that involved a trade-off between
+two primary objectives of maintaining public confidence in the stability of the banking system and encouraging market discipline against risk-taking.
+Banks that failed subsequent to unfavorable local economic conditions had a higher median probability of receiving 
+financial assistance from the FDIC compared to those that failed in a relatively more favorable economic climate. 
+The response of the FDIC to bank-level attributes is found to be substantially stronger in the former category of 
+banks relative to the latter group. While these findings corroborate the conclusions of Acharya and Yorulmazer (2007b) 
+regarding the onset of a too-many-to-fail effect, they also bring to light enhanced decision-making processes at the 
+FDIC in the resolution of failed banks during times of industry-wide distress. I develop a novel Bayesian procedure to 
+estimate latent class models with ordinal responses to detect unobserved heterogeneity in bank resolution. 
+I analyze all failures that occurred during 1984-1992 among US banks insured by the FDIC as the regulatory landscape 
+and the spate of regional bank crises during this period created conditions in which bank failures that were 
+crisis-driven and idiosyncratic occurred contemporaneously.
 
 ### Teaching
-I am not teaching any courses this semester. When I do, the class notes and lecture slides will be available from their respective course-homes in [blackboard](https://blackboard.usc.edu) - USC’s e-learning platform.
+I have been a TA for the following classes at UC Irvine.
+
+#### Graduate
+Econometrics II (Winter 2016), Econometrics (Spring 2016, Spring 2017), Probability and Statistics (Summer 2016)
+
+#### Upper Division
+Econometrics II (Winter 2017), Cultural Economics (Summer 2016), Applied Econometrics I (Fall 2016), Applied Econometrics II (Fall 2015), Game Theory (Summer 2015), Managerial Economics (Spring 2015)
+
+#### Lower Division
+Probability and Statistics for Social Sciences (Winter 2015), Probability and Statistics II (Fall 2014)
 
 
 
