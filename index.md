@@ -1,6 +1,6 @@
 --- 
 layout: page
-subtitle: PhD candidate in Statistics
+subtitle: PhD candidate in Economics
 ---
 <style>
 body {
@@ -12,31 +12,37 @@ text-align: justify}
 <td style="width:200px;height:250px">
 <font color="#0b5394" face="georgia, serif"><a href="IMGLINKTARGET"><img alt="alt text" height="HEIGHTpx" src="http://padmasharma.github.io/img/profilePhoto.jpg" width="WIDTHpx"></a>&nbsp;</font></td>
 <td align="left" style="width:400px;height:200px">
-   <p><font size="5"><b>Trambak Banerjee</b></font><br>
-      <font color="#9b9999" size="4"><b>PhD candidate in Statistics</b></font><br>
+   <p><font size="5"><b>Padma Sharma</b></font><br>
+      <font color="#9b9999" size="4"><b>PhD candidate in Economics</b></font><br>
    <hr width = "80%" margin-left:0 align="left" border="1px" color = "918f8f"></p>
-<p><font size="3"><b>Email:</b> Trambak.Banerjee.2020[at]marshall.usc.edu</font><br>
+<p><font size="3"><b>Email:</b> padmas[at]uci.edu</font><br>
 <font size="3"><b>Address:</b> 
-<a href="http://www.marshall.usc.edu/" target="_blank">USC Marshall School of Business</a><br>
-303E Bridge Hall<br>
-3670 Trousdale Parkway<br>
-Los Angeles, CA 90089-0809</font></p>
+<a href="https://www.economics.uci.edu/grad/index.php/" target="_blank">UCI Department of Economics</a><br>
+3151 Social Science Plaza<br>
+Irvine, CA 92697-5100</font></p>
 </td>
 </tr>
 </tbody>
 </table>
 
-I am a third year PhD candidate in [Statistics](http://www-bcf.usc.edu/~gareth/StatGroup/) co-advised by Prof. [Gourab Mukherjee](https://gmukherjee.github.io/) and Prof. [Wenguang Sun](http://www-bcf.usc.edu/~wenguans/) in the department of [Data Sciences and Operations](https://www.marshall.usc.edu/departments/data-sciences-and-operations) at [USC Marshall School of Business](https://www.marshall.usc.edu/). I received my MS degree in Statistics from the [Indian Statistical Institute](http://www.isical.ac.in/) and a BS degree in Statistics from [St. Xavier's College, Kolkata](http://www.sxccal.edu/departments/BScStatistics/BScStatistics.htm).
+I am a fourth year PhD candidate in Economics at University of California at Irvine with specializations in Econometrics and Banking. In my current research, I study bank failures during the Savings and Loans crisis and their resolution by the FDIC using a novel Bayesian latent class model and uncover heterogeneity in how systemic and idiosyncratic failures were addressed.
 
-Prior to joining USC, I have served as a quantitative modeler at [FICO](http://www.fico.com) and [Evalueserve](http://www.evalueserve.com) where I have developed statistical models for credit scoring and for estimating banking regulatory capital pertaining to Credit and [Operational risk](https://arxiv.org/pdf/1303.2910.pdf) events. 
+I have received my undergraduate degree in Economics, Mathematics and Statistics from Bangalore University where I was awarded the Gold Medal in Mathematics. I hold a Masters degree in Economics from Indira Gandhi Institute of Development Research (established by the Reserve Bank of India) and was awarded the RBI Governor's Gold Medal. 
 
-__Research Interests__: Empirical Bayes methods, Sparse estimation theory, Joint modeling of Longitudinal and Time-to-Event data, Computational Statistics
+I have worked as a quantitative modeler and team manager in financial services in India, the UK, Chile and  the US prior to commencing my doctoral studies at UC Irvine. I developed statistical models to calculate banking regulatory capital over the period spanning the Great Recession and use my experiences from the crisis to inform my research.
 
-### Publications / Articles in review
+__Research Interests__: Banking crises, Bayesian Nonparametrics, Latent class models, MCMC estimation
+
+### Working Papers
 __Theory and Methods__
 
-- [Adaptive Sparse Estimation with Side Information.](http://www-bcf.usc.edu/~wenguans/Papers/ASUS.pdf)             
-   Banerjee T, Mukherjee G and Sun W. _(under review)_
+- Bayesian Latent Class Modeling with Ordinal Response Data
+
+Bayesian methods to estimate latent class models have been developed and implemented in contexts involving continuous 
+and binary outcome data but have not yet been adapted to model ordinal responses. I address this open area of research 
+and develop an efficient collapsed Gibbs sampler to estimate such models in univariate and multivariate settings. 
+I discuss issues pertaining to identification, prior sensitivity and identify constraints on the data that ensure that the posterior 
+means are centered around the true parameter values. 
 
 - [Feature Screening in Large Scale Cluster Analysis.](https://doi.org/10.1016/j.jmva.2017.08.001)                    
    Banerjee T, Mukherjee G and Radchenko P.                                 
