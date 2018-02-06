@@ -34,7 +34,6 @@ I have worked as a quantitative modeler and team manager in financial services i
 __Research Interests__: Banking crises, Bayesian Nonparametrics, Latent class models, MCMC estimation
 
 ### Working Papers
-__Theory and Methods__
 
 - Bayesian Latent Class Modeling with Ordinal Response Data
 
