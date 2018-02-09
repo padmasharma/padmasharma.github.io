@@ -37,29 +37,12 @@ __Research Interests__: Banking crises, Bayesian Nonparametrics, Latent class mo
 
 - Bayesian Latent Class Modeling with Ordinal Response Data
 
-Bayesian methods to estimate latent class models have been developed and implemented in contexts involving continuous 
-and binary outcome data but have not yet been adapted to model ordinal responses. I address this open area of research 
-and develop an efficient collapsed Gibbs sampler to estimate such models in univariate and multivariate settings. 
-I discuss issues pertaining to identification, prior sensitivity and identify constraints on the data that ensure that the posterior 
-means are centered around the true parameter values. 
+Bayesian methods to estimate latent class models have been developed and implemented in contexts involving continuous and binary outcome data but have not yet been adapted to model ordinal responses. I address this open area of research and develop an efficient collapsed Gibbs sampler to estimate such models in univariate and multivariate settings. The paper discusses issues pertaining to model identification and prior sensitivity and provides applications from labor and banking. 
 
 - Heterogeneity in the Resolution of Bank Failures: A
 Latent Class Approach
 
-This paper investigates the resolution of failed banks by the FDIC and uncovers a dichotomy in the manner 
-in which cases were administered when local economic conditions were normal against when they were distressed.
-I use a latent class model for ordinal outcomes to frame the FDIC's decision problem that involved a trade-off between
-two primary objectives of maintaining public confidence in the stability of the banking system and encouraging market discipline against risk-taking.
-Banks that failed subsequent to unfavorable local economic conditions had a higher median probability of receiving 
-financial assistance from the FDIC compared to those that failed in a relatively more favorable economic climate. 
-The response of the FDIC to bank-level attributes is found to be substantially stronger in the former category of 
-banks relative to the latter group. While these findings corroborate the conclusions of Acharya and Yorulmazer (2007b) 
-regarding the onset of a too-many-to-fail effect, they also bring to light enhanced decision-making processes at the 
-FDIC in the resolution of failed banks during times of industry-wide distress. I develop a novel Bayesian procedure to 
-estimate latent class models with ordinal responses to detect unobserved heterogeneity in bank resolution. 
-I analyze all failures that occurred during 1984-1992 among US banks insured by the FDIC as the regulatory landscape 
-and the spate of regional bank crises during this period created conditions in which bank failures that were 
-crisis-driven and idiosyncratic occurred contemporaneously.
+This paper investigates the resolution of failed banks by the FDIC during 1984-1992 and finds that bank failures that were accompanied by regional economic distress had a higher median probability of receiving financial assistance from the FDIC compared to those that failed in a relatively more favorable economic climate. This article also provides evidence in favor of the importance of the political support of elected representatives in securing less severe forms of resolution for banks that failed in economically distressed regions. A novel Bayesian procedure to estimate latent class models with ordinal responses is developed to detect unobserved heterogeneity in bank resolution.
 
 ### Teaching
 I have been a TA for the following classes at UC Irvine.
