@@ -29,7 +29,7 @@ navbar-links:
   Working papers: "index#working-papers"
   #Software: "index#software-and-datasets"
   Teaching: "index#teaching"
-  CV: (../documents/Sharma-Padma_CV.pdf)
+  CV: "/documents/Sharma-Padma_CV.pdf"
   #Contact: "index#contact
   
   # --- Background colour/image options --- #
