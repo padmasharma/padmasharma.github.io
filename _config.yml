@@ -29,8 +29,8 @@ navbar-links:
   Working papers: "index#working-papers"
   #Software: "index#software-and-datasets"
   Teaching: "index#teaching"
-  CV: "https://github.com/padmasharma/padmasharma.github.io/blob/master/documents/SharmaCV.pdf" 
-  # CV: "/documents/Sharma-Padma_CV.pdf"
+  # CV: "https://github.com/padmasharma/padmasharma.github.io/blob/master/documents/SharmaCV.pdf" 
+  CV: [CV](../documents/SharmaCV.pdf)
   #Contact: "index#contact
   
   # --- Background colour/image options --- #
