@@ -27,7 +27,7 @@ Irvine, CA 92697-5100</font></p>
 
 I am a fourth year PhD candidate in Economics at University of California at Irvine with specializations in Econometrics and Banking. In my current research, I study bank failures during the Savings and Loans crisis and their resolution by the FDIC using a novel Bayesian latent class model and uncover heterogeneity in how systemic and idiosyncratic failures were addressed.
 
-I have received my undergraduate degree in Economics, Mathematics and Statistics from Bangalore University where I was awarded the Gold Medal in Mathematics. I hold a Masters degree in Economics from Indira Gandhi Institute of Development Research (established by the Reserve Bank of India) and was awarded the RBI Governor's Gold Medal. 
+I have received my undergraduate degree in Economics, Mathematics and Statistics from Bangalore University where I was awarded the Gold Medal in Mathematics. I hold a Masters degree in Economics from <a href="https://www.economics.uci.edu/grad/index.php/" target="_blank">Indira Gandhi Institute of Development Research</a> (established by the Reserve Bank of India) and was awarded the RBI Governor's Gold Medal. 
 
 I have worked as a quantitative modeler and team manager in financial services in India, the UK, Chile and  the US prior to commencing my doctoral studies at UC Irvine. I developed statistical models to calculate banking regulatory capital over the period spanning the Great Recession and use my experiences from the crisis to inform my research.
 
