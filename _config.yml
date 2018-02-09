@@ -29,7 +29,7 @@ navbar-links:
   Working papers: "index#working-papers"
   #Software: "index#software-and-datasets"
   Teaching: "index#teaching"
-  CV: "padmasharma.github.io/documents/SharmaCV.pdf" 
+  CV: "padmasharma.github.io/documents/SharmaCV.pdf" {:target = "_blank"}
   # CV: [CV](../documents/SharmaCV.pdf)
   #Contact: "index#contact
   
