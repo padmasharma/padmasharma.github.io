@@ -30,7 +30,8 @@ navbar-links:
   #Software: "index#software-and-datasets"
   Teaching: "index#teaching"
   # CV: "https://github.com/padmasharma/padmasharma.github.io/blob/master/documents/SharmaCV.pdf" 
-  CV: [CV](../documents/SharmaCV.pdf)
+  # CV: [CV](../documents/SharmaCV.pdf)
+  CV: "index#CV"
   #Contact: "index#contact
   
   # --- Background colour/image options --- #
