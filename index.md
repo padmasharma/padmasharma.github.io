@@ -25,11 +25,11 @@ Irvine, CA 92697-5100</font></p>
 </tbody>
 </table>
 
-I am a fourth year PhD candidate in Economics at University of California at Irvine with specializations in Econometrics and Banking. In my current research, I study bank failures during the Savings and Loans crisis and their resolution by the FDIC using a novel Bayesian latent class model and uncover heterogeneity in how systemic and idiosyncratic failures were addressed.
+I am a fourth year PhD candidate in Economics at University of California at Irvine with specializations in Econometrics and Banking. In my current research, I study bank failures during the Savings and Loans crisis and their resolution by the FDIC. I have used a novel Bayesian latent class model and uncovered heterogeneity in how systemic and idiosyncratic failures were addressed during the period 1984-1992. I am currently examining the moral hazard effects of the FDIC's financial assistance to failed banks and thrifts on depository institutions that were at the most risk of failure.
 
-I have received my undergraduate degree in Economics, Mathematics and Statistics from Bangalore University where I was awarded the Gold Medal in Mathematics. I hold a Masters degree in Economics from <a href="https://www.economics.uci.edu/grad/index.php/" target="_blank">Indira Gandhi Institute of Development Research</a> (established by the Reserve Bank of India) and was awarded the RBI Governor's Gold Medal. 
+I have received my undergraduate degree in Economics, Mathematics and Statistics from  <a href="http://http://bangaloreuniversity.ac.in//" target="_blank">Bangalore University</a> where I was awarded the Gold Medal in Mathematics. I hold a Masters degree in Economics from <a href="http://www.igidr.ac.in//" target="_blank">Indira Gandhi Institute of Development Research</a> (established by the Reserve Bank of India) and was awarded the RBI Governor's Gold Medal. 
 
-I have worked as a quantitative modeler and team manager in financial services in India, the UK, Chile and  the US prior to commencing my doctoral studies at UC Irvine. I developed statistical models to calculate banking regulatory capital over the period spanning the Great Recession and use my experiences from the crisis to inform my research.
+I have worked as a quantitative modeler and team manager in financial services in India, the UK, Chile and  the US prior to commencing my doctoral studies at UC Irvine. I developed statistical models to calculate banking regulatory capital over the period leading up to, spanning and following the Great Recession and use my experience in studying bank portfolios to inform my research.
 
 __Research Interests__: Banking crises, Bayesian Nonparametrics, Latent class models, MCMC estimation
 
@@ -42,13 +42,13 @@ Bayesian methods to estimate latent class models have been developed and impleme
 - Heterogeneity in the Resolution of Bank Failures: A
 Latent Class Approach
 
-This paper investigates the resolution of failed banks by the FDIC during 1984-1992 and finds that bank failures that were accompanied by regional economic distress had a higher median probability of receiving financial assistance from the FDIC compared to those that failed in a relatively more favorable economic climate. This article also provides evidence in favor of the importance of the political support of elected representatives in securing less severe forms of resolution for banks that failed in economically distressed regions. A novel Bayesian procedure to estimate latent class models with ordinal responses is developed to detect unobserved heterogeneity in bank resolution.
+This paper investigates the resolution of failed banks by the FDIC during 1984-1992 and finds that bank failures that were accompanied by regional economic distress had a higher median probability of receiving financial assistance from the FDIC compared to those that failed in a relatively more favorable economic climate. This article also provides evidence in favor of the importance of the political support of elected representatives in securing relatively less severe forms of resolution for banks that failed in economically distressed regions. A novel Bayesian procedure to estimate latent class models with ordinal responses is utilized to detect unobserved heterogeneity in bank resolution.
 
 ### Teaching
 I have been a TA for the following classes at UC Irvine.
 
 #### Graduate
-Econometrics II (Winter 2016), Econometrics (Spring 2016, Spring 2017), Probability and Statistics (Summer 2016)
+Econometrics (Winter 2016, Spring 2016, Spring 2017), Probability and Statistics (Summer 2016)
 
 #### Upper Division
 Econometrics II (Winter 2017), Cultural Economics (Summer 2016), Applied Econometrics I (Fall 2016), Applied Econometrics II (Fall 2015), Game Theory (Summer 2015), Managerial Economics (Spring 2015)
