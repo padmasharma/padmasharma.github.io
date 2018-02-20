@@ -25,11 +25,11 @@ Irvine, CA 92697-5100</font></p>
 </tbody>
 </table>
 
-I am a fourth year PhD candidate in Economics at University of California at Irvine with specializations in Econometrics and Banking. In my current research, I study bank failures during the Savings and Loans crisis and their resolution by the FDIC. I have used a novel Bayesian latent class model and uncovered heterogeneity in how systemic and idiosyncratic failures were addressed during the period 1984-1992. I am currently examining the moral hazard effects of the FDIC's financial assistance to failed banks and thrifts on depository institutions that were at the most risk of failure.
+I am a fourth year PhD candidate in Economics at University of California at Irvine with specializations in Econometrics and Banking. My objective is to develop and utilize innovative empirical methods to provide original insights to research questions in Banking. In my current research, I have studied bank failures during the Savings and Loans crisis and their resolution by the FDIC. I have developed an efficient estimation algorithm for a Bayesian latent class model and uncovered heterogeneity in how systemic and idiosyncratic failures were addressed during the period 1984-1992. I am currently examining the moral hazard effects of the FDIC’s financial assistance to failed banks and thrifts on depository institutions that were at the most risk of failure using Bayesian Nonparametric methods.
 
 I have received my undergraduate degree in Economics, Mathematics and Statistics from  <a href="http://bangaloreuniversity.ac.in//" target="_blank">Bangalore University</a> where I was awarded the Gold Medal in Mathematics. I hold a Masters degree in Economics from <a href="http://www.igidr.ac.in//" target="_blank">Indira Gandhi Institute of Development Research</a> (established by the Reserve Bank of India) and was awarded the RBI Governor's Gold Medal. 
 
-I have worked as a quantitative modeler and team manager in financial services in India, the UK, Chile and  the US prior to commencing my doctoral studies at UC Irvine. I developed statistical models to calculate banking regulatory capital over the period leading up to, spanning and following the Great Recession and use my experience in studying bank portfolios to inform my research.
+I have worked as a quantitative risk modeler and team manager in financial services prior to commencing my doctoral studies at UC Irvine. I use my insights from studying bank portfolios and experience in working with bank and industry-level datasets to model credit and operational risk over the period spanning the Great Recession to inform my research.
 
 __Research Interests__: Banking crises, Bayesian Nonparametrics, Latent class models, MCMC estimation
 
