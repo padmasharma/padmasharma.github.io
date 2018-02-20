@@ -51,7 +51,7 @@ I have been a TA for the following classes at UC Irvine.
 Econometrics (Winter 2016, Spring 2016, Spring 2017), Probability and Statistics (Summer 2016)
 
 #### Upper Division
-Econometrics II (Winter 2017), Cultural Economics (Summer 2016), Applied Econometrics I (Fall 2016), Applied Econometrics II (Fall 2015), Game Theory (Summer 2015), Managerial Economics (Spring 2015)
+Econometrics II (Winter 2017, Winter 2018), Cultural Economics (Summer 2016), Applied Econometrics I (Fall 2016), Applied Econometrics II (Fall 2015), Game Theory (Summer 2015), Managerial Economics (Spring 2015)
 
 #### Lower Division
 Probability and Statistics for Social Sciences (Winter 2015), Probability and Statistics II (Fall 2014)
