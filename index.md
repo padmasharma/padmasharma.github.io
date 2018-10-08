@@ -37,20 +37,17 @@ __Research Interests__: Banking crises, Deposit Insurance, Bailouts, Latent clas
 
 ### Working Papers
 
-- Heterogeneity in the Resolution of Bank Failures: A
-Latent Class Approach
+Uncovering Heterogeneity in the Resolution of Bank Failures
 
-This paper investigates the resolution of failed banks by the FDIC during 1984-1992 and finds that bank failures that were accompanied by regional economic distress had a higher median probability of receiving financial assistance from the FDIC compared to those that failed in a relatively more favorable economic climate. This article also provides evidence in favor of the importance of the political support of elected representatives in securing relatively less severe forms of resolution for banks that failed in economically distressed regions. A novel Bayesian procedure to estimate latent class models with ordinal responses is utilized to detect unobserved heterogeneity in bank resolution.
-
-- Bayesian Latent Class Modeling with Ordinal Response Data
-
-Bayesian methods to estimate latent class models have been developed and implemented in contexts involving continuous and binary outcome data but have not yet been adapted to model ordinal responses. I address this open area of research and develop an efficient collapsed Gibbs sampler to estimate such models in univariate and multivariate settings. The paper discusses issues pertaining to model identification and prior sensitivity and provides applications from labor and banking. 
+This article studies the FDIC's problem of resolving failed banks over the period 1984-1992 as an amalgam of two distinct decision rules. The results show that bank failures that were accompanied by regional economic distress were administered by a decision
+rule that favored less severe resolution methods such as the provision of financial assistance. This decision rule showed greater sensitivity to bank fundamentals than the rule applied to banks that failed in normal economic conditions. These results are based
+on an efficient collapsed Gibbs sampler developed in this paper to estimate Bayesian latent class models to detect unobserved heterogeneity in bank resolution.
 
 ### Teaching
 I have been a TA for the following classes at UC Irvine.
 
 #### Graduate
-Econometrics (Winter 2016, Spring 2016, Spring 2017), Probability and Statistics (Summer 2016)
+Econometrics (Winter 2016, Spring 2016, Spring 2017, Spring 2018), Probability and Statistics (Summer 2016)
 
 #### Upper Division
 Econometrics II (Winter 2017, Winter 2018), Cultural Economics (Summer 2016), Applied Econometrics I (Fall 2016), Applied Econometrics II (Fall 2015), Game Theory (Summer 2015), Managerial Economics (Spring 2015)
