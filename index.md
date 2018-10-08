@@ -29,7 +29,7 @@ I am a PhD candidate in Economics at the University of California at Irvine with
 
 In my job market paper, I have studied bank failures during the 1980's and their resolution by the FDIC. I have developed an efficient estimation algorithm for a Bayesian latent class model and uncovered heterogeneity in how failures amidst high and low regional distress were addressed during the period 1984-1992. This paper provides insights into the FDIC's consideration of indirect economic costs of bank closures in addition to assessing direct costs to the insurance fund. This study also tests theories of optimal bailouts and resolutions at the bank-level.  
 
-I have received my undergraduate degree in Economics, Mathematics and Statistics from  <a href="http://bangaloreuniversity.ac.in//" target="_blank">Bangalore University where I was awarded the Gold Medal in Mathematics. I hold a Masters degree in Economics from <a href="http://www.igidr.ac.in//" target="_blank">Indira Gandhi Institute of Development Research</a> (established by the Reserve Bank of India) and was awarded the RBI Governor's Gold Medal. 
+I have received my undergraduate degree in Economics, Mathematics and Statistics from  <a href="http://bangaloreuniversity.ac.in//" target="_blank">Bangalore University</a> where I was awarded the Gold Medal in Mathematics. I hold a Masters degree in Economics from <a href="http://www.igidr.ac.in//" target="_blank">Indira Gandhi Institute of Development Research</a> (established by the Reserve Bank of India) and was awarded the RBI Governor's Gold Medal. 
 
 I have worked as a quantitative risk modeler and team manager in financial services prior to commencing my doctoral studies at UC Irvine. I use my insights from studying bank portfolios and experience in working with bank and industry-level datasets to model credit and operational risk over the period spanning the Great Recession to inform my research.
 
@@ -37,7 +37,7 @@ __Research Interests__: Banking crises, Deposit Insurance, Bailouts, Latent clas
 
 ### Working Papers
 
-<a href="padmasharma.github.io/documents/Sharma_JMP//" target="_blank">Uncovering Heterogeneity in the Resolution of Bank Failures</a>
+<a href="padmasharma.github.io/documents/Sharma_JMP.pdf" target="_blank">Uncovering Heterogeneity in the Resolution of Bank Failures</a>
 
 This article studies the FDIC's problem of resolving failed banks over the period 1984-1992 as an amalgam of two distinct decision rules. The results show that bank failures that were accompanied by regional economic distress were administered by a decision
 rule that favored less severe resolution methods such as the provision of financial assistance. This decision rule showed greater sensitivity to bank fundamentals than the rule applied to banks that failed in normal economic conditions. These results are based
