@@ -37,7 +37,7 @@ __Research Interests__: Banking crises, Deposit Insurance, Bailouts, Latent clas
 
 ### Working Papers
 
-<a href="padmasharma.github.io/documents/Sharma_JMP.pdf" target="_blank">Uncovering Heterogeneity in the Resolution of Bank Failures</a>
+<a href="https://github.com/padmasharma/padmasharma.github.io/tree/master/documents/Sharma_JMP.pdf" target="_blank">Uncovering Heterogeneity in the Resolution of Bank Failures</a>
 
 This article studies the FDIC's problem of resolving failed banks over the period 1984-1992 as an amalgam of two distinct decision rules. The results show that bank failures that were accompanied by regional economic distress were administered by a decision
 rule that favored less severe resolution methods such as the provision of financial assistance. This decision rule showed greater sensitivity to bank fundamentals than the rule applied to banks that failed in normal economic conditions. These results are based
