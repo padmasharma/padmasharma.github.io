@@ -46,6 +46,23 @@ This article studies the FDIC's problem of resolving failed banks over the perio
 rule that favored less severe resolution methods such as the provision of financial assistance. This decision rule showed greater sensitivity to bank fundamentals than the rule applied to banks that failed in normal economic conditions. These results are based
 on an efficient collapsed Gibbs sampler developed in this paper to estimate Bayesian latent class models to detect unobserved heterogeneity in bank resolution.
 
+“Suspension of Payments and their Consequences” with Christoffer Koch, Qian Chen and Gary Richardson
+
+Governors suspended payments by healthy financial institutions in their states four times in the last forty years. Suspensions in Nebraska (1983), Ohio (1985), and Maryland (1985), which occurred during economic expansions, had little measurable impact at the state-level. The suspension in Rhode Island (1991), which occurred during a recession, lengthened and deepened the contraction relative to states with comparable pre-suspension patterns of economic activity. We document the suspension’s impact on macroeconomics aggregates, such as unemployment, payrolls, per capita incomes, business formation, bankruptcies, and mortgage defaults, using methods of synthetic control. Our estimates help us to address two policy questions. Were the costs of direct federal and state expenditures to prevent suspension of payments from the Great Depression until today worth the benefits? Was the cost of federal interventions to prevent suspensions of payments by commercial banks following the collapse of Lehman brothers in September 2008 worth the likely benefits? In both cases, our answer is yes.
+
+"Bayesian Latent Class Modeling with Ordinal Response Data"
+
+Bayesian methods to estimate latent class models have been developed and implemented in contexts involving continuous and binary outcome data but have not yet been adapted to model ordinal responses. I address this open area of research and develop an efficient collapsed Gibbs sampler to estimate such models in univariate and multivariate settings. The paper discusses issues pertaining to model identification and prior sensitivity and provides applications from education and banking.
+
+IN PROGRESS
+
+“The Impact of Bank Resolution Procedures on Risk-taking: Evidence from a Policy Change in the 1980s”
+“Efficient Bayesian Estimation of the Mixed Logit Model” with Ivan Jeliazkov and Kai Yoshioka
+“Bayesian Joint Modeling with Shape Constraints” with Trambak Banerjee
+“Competitive Effects of Bank and Thrift Rescues: Evidence from Bank-level Portfolios”
+“Bayesian Inference with Synthetic Control Methods” with Christoffer Koch and Gary Richardson
+
+
 ### Teaching
 I have been a TA for the following classes at UC Irvine.
 
