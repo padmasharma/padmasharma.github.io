@@ -30,8 +30,8 @@ navbar-links:
   #Software: "index#software-and-datasets"
   Teaching: "index#teaching"
   #CV: "padmasharma.github.io/documents/SharmaCV.pdf" 
- #<a href="drive.google.com/open?id=1MfdGVPcAA7zJHDOvLhif0H4qtBmQn2Y5" target="_blank"> CV:</a> 
- <a href="padmasharma.github.io/documents/SharmaCV.pdf" target="_blank"> CV:</a>
+ <a href="drive.google.com/open?id=1MfdGVPcAA7zJHDOvLhif0H4qtBmQn2Y5" target="_blank"> CV:</a>
+ #<a href="padmasharma.github.io/documents/SharmaCV.pdf" target="_blank"> CV:</a>
  # CV: [CV](../documents/SharmaCV.pdf)
   #Contact: "index#contact
   
