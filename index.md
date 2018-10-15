@@ -57,9 +57,13 @@ Bayesian methods to estimate latent class models have been developed and impleme
 IN PROGRESS
 
 “The Impact of Bank Resolution Procedures on Risk-taking: Evidence from a Policy Change in the 1980s”
+
 “Efficient Bayesian Estimation of the Mixed Logit Model” with Ivan Jeliazkov and Kai Yoshioka
+
 “Bayesian Joint Modeling with Shape Constraints” with Trambak Banerjee
+
 “Competitive Effects of Bank and Thrift Rescues: Evidence from Bank-level Portfolios”
+
 “Bayesian Inference with Synthetic Control Methods” with Christoffer Koch and Gary Richardson
 
 
