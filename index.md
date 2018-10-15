@@ -35,6 +35,9 @@ I have worked as a quantitative risk modeler and team manager in financial servi
 
 __Research Interests__: Banking crises, Deposit Insurance, Bailouts, Latent class models, MCMC estimation
 
+### CV
+The latest version of my CV can be accessed <a href="https://drive.google.com/open?id=1aGYIOJTrBeIqL8NfK3GOPCAvdHtbn0-w" target="_blank">here</a>
+
 ### Working Papers
 
 <a href="https://drive.google.com/open?id=1nxJe7RI9TxIAs7UxJjmDuNqgMk2Pto1u" target="_blank">Uncovering Heterogeneity in the Resolution of Bank Failures</a>
@@ -55,7 +58,6 @@ Econometrics II (Winter 2017, Winter 2018), Cultural Economics (Summer 2016), Ap
 #### Lower Division
 Probability and Statistics for Social Sciences (Winter 2015), Probability and Statistics II (Fall 2014)
 
-### CV
-The latest version of my CV can be accessed <a href="https://drive.google.com/open?id=1aGYIOJTrBeIqL8NfK3GOPCAvdHtbn0-w" target="_blank">here</a>
+
 
 
