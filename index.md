@@ -9,9 +9,9 @@ text-align: justify}
 <table bordercolor="#ffffff">
 <tbody>
 <tr>
-<td style="width:200px;height:250px">
+<td style="width:200px;height:350px">
 <font color="#0b5394" face="georgia, serif"><a href="IMGLINKTARGET"><img alt="alt text" height="HEIGHTpx" 
-src="http://padmasharma.github.io/img/profilePhoto2.jpg" width="WIDTHpx"></a>&nbsp;</font></td>
+src="http://padmasharma.github.io/img/profilePhoto3.jpg" width="WIDTHpx"></a>&nbsp;</font></td>
 <td align="left" style="width:400px;height:200px">
    <p><font size="5"><b>Padma Sharma</b></font><br>
       <font color="#9b9999" size="4"><b>PhD candidate in Economics</b></font><br>
