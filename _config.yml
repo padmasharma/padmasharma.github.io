@@ -26,10 +26,10 @@ navbar-links:
   #Blog: "blog"
   #Teaching: "teaching"
   #Datasets: "datasets"
-  CV: "index#cv"
   Working papers: "index#working-papers"
   #Software: "index#software-and-datasets"
   Teaching: "index#teaching"
+  CV: "index#cv"
   #CV: "padmasharma.github.io/documents/SharmaCV.pdf"
   #CV: "drive.google.com/open?id=1MfdGVPcAA7zJHDOvLhif0H4qtBmQn2Y5"
  #<li><a href="drive.google.com/open?id=1MfdGVPcAA7zJHDOvLhif0H4qtBmQn2Y5" target="_blank">CV: </a></li>
