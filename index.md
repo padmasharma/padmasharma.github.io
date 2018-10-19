@@ -40,6 +40,8 @@ __Research Interests__: Banking crises, Deposit Insurance, Bailouts, Latent clas
 
 ### Research
 
+
+
 #### Working Papers
 
 <a href="https://drive.google.com/open?id=1nxJe7RI9TxIAs7UxJjmDuNqgMk2Pto1u" target="_blank">Uncovering Heterogeneity in the Resolution of Bank Failures</a>
