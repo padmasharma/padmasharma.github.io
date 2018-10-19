@@ -26,7 +26,7 @@ navbar-links:
   #Blog: "blog"
   #Teaching: "teaching"
   #Datasets: "datasets"
-  Working papers: "index#research"
+  Research: "index#research"
   #Software: "index#software-and-datasets"
   Teaching: "index#teaching"
   CV: "index#cv"
