@@ -36,9 +36,8 @@ I have worked as a quantitative risk modeler and team manager in financial servi
 
 __Research Interests__: Banking crises, Deposit Insurance, Bailouts, Latent class models, MCMC estimation
 
-
-
 ### Research 
+<br>
 
 #### Working Papers
 
