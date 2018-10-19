@@ -38,9 +38,9 @@ __Research Interests__: Banking crises, Deposit Insurance, Bailouts, Latent clas
 
 
 
-### Research/
+### Research
 
-
+//
 
 #### Working Papers
 
