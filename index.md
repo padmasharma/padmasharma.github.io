@@ -32,12 +32,13 @@ In my job market paper, I have studied bank failures during the 1980's and their
 
 I was a dissertation intern at the Federal Reserve Bank of New York during June-September 2018 and a recipient of the Graduate Dean's Dissertation Fellowship in UCI over Summer and Fall 2018. I have completed my undergraduate degree in Economics, Mathematics and Statistics from  <a href="http://bangaloreuniversity.ac.in//" target="_blank">Bangalore University</a> where I was awarded the Gold Medal in Mathematics. I hold a Masters degree in Economics from <a href="http://www.igidr.ac.in//" target="_blank">Indira Gandhi Institute of Development Research</a> (established by the Reserve Bank of India) and was awarded the RBI Governor's Gold Medal. 
 
-I have worked as a quantitative risk modeler and team manager in financial services prior to commencing my doctoral studies at UC Irvine. I use my insights from evaluating bank portfolios and experience in developing statistical models to manage credit and operational risk over the period spanning the Great Recession to inform my research.
+I have worked as a quantitative risk modeler and team manager in financial services prior to commencing my doctoral studies at UC Irvine. My research is informed by my insights from evaluating bank portfolios and experience in developing statistical models to manage credit and operational risk over the period spanning the Great Recession.
 
 __Research Interests__: Banking crises, Deposit Insurance, Bailouts, Latent class models, MCMC estimation
 
 ### Research 
-<br>
+
+An overview of my working papers and research projects in progress. 
 
 #### Working Papers
 
