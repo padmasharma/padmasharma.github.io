@@ -28,13 +28,13 @@ Irvine, CA 92697-5100</font></p>
 
 I am a PhD candidate in Economics at the University of California at Irvine with specializations in Econometrics and Banking. I am currently on the job market and will be at the ASSA meetings at Atlanta between January 4-6, 2019.
 
-In my job market paper, I have studied bank failures during the 1980's and their resolution by the FDIC. I have developed an efficient estimation algorithm for a Bayesian latent class model and uncovered heterogeneity in how failures amidst high and low regional distress were addressed during the period 1984-1992. This paper provides insights into the FDIC's consideration of indirect economic costs of bank closures in addition to assessing direct costs to the insurance fund. This study also tests theories of optimal bailouts and resolutions at the bank-level.  
+In my <a href="https://drive.google.com/open?id=1nxJe7RI9TxIAs7UxJjmDuNqgMk2Pto1u" target="_blank">job market paper</a> , I have studied how the FDIC and FSLIC resolved failed banks and Savings and Loans institutions respectively during the crisis the two industries experienced over the 1980's. This paper develops an efficient Bayesian algorithm to estimate latent class models with ordinal outcomes to uncover the different decision rules used by each regulator in distressed and normal economic conditions. The comparison of resolution strategies of the two agencies reveals lessons that are applicable to regulators for future bank resolutions.     
 
 I was a dissertation intern at the Federal Reserve Bank of New York during June-September 2018 and a recipient of the Graduate Dean's Dissertation Fellowship in UCI over Summer and Fall 2018. 
 
 I have worked as a quantitative risk modeler and team manager in financial services prior to commencing my doctoral studies at UC Irvine. My research is informed by my insights from evaluating bank portfolios and experience in developing statistical models to manage credit and operational risk over the period spanning the Great Recession.
 
-__Research Interests__: Banking crises, Deposit Insurance, Bailouts, Latent class models, MCMC estimation
+__Research Interests__: Econometrics, Financial Economics, Computational Statistics and Macroeconomics
 
 ### Research 
 
@@ -42,11 +42,9 @@ An overview of my working papers and research projects in progress.
 
 #### Working Papers
 
-<a href="https://drive.google.com/open?id=1nxJe7RI9TxIAs7UxJjmDuNqgMk2Pto1u" target="_blank">Uncovering Heterogeneity in the Resolution of Bank Failures</a>
+<a href="https://drive.google.com/open?id=1nxJe7RI9TxIAs7UxJjmDuNqgMk2Pto1u" target="_blank">Uncovering Heterogeneity in the Resolution of Bank Failures (Job Market Paper) </a>
 
-This article studies the FDIC's problem of resolving failed banks over the period 1984-1992 as an amalgam of two distinct decision rules. The results show that bank failures that were accompanied by regional economic distress were administered by a decision
-rule that favored less severe resolution methods such as the provision of financial assistance. This decision rule showed greater sensitivity to bank fundamentals than the rule applied to banks that failed in normal economic conditions. These results are based
-on an efficient collapsed Gibbs sampler developed in this paper to estimate Bayesian latent class models to detect unobserved heterogeneity in bank resolution.
+How should bank regulators resolve troubled banks? I address this question by drawing from the experiences of the Federal Deposit Insurance Corporation (FDIC) and the Federal Savings and Loans Insurance Corporation (FSLIC) in resolving failures of banks and Savings and Loans (S\&L) institutions respectively during the crisis of the 1980's in the two industries. I find that the FDIC adopted different decision rules for banks that failed in economically distressed regions as opposed to those that failed in relatively benign regional economic conditions. The former were seven times more likely to receive assistance and eight times less likely to be liquidated compared to the latter. The FSLIC did not distinguish across institutions based on the extent of economic distress in their region of operation and provided assistance to failed institutions with a higher probability than the FDIC. Since the FDIC withstood the banking crisis whereas the FSLIC underwent bankruptcy at significant cost to the taxpayer, the resolution strategy of the former provides guiding principles for other regulators in handling bank failures. This paper estimates the different decision rules used by each regulator in distressed and normal economic conditions by developing an efficient Bayesian algorithm to estimate latent class models with ordinal outcomes.  This estimation approach fully explores the parameter space and therefore overcomes local identifiability issues associated with likelihood-based algorithms. This algorithm allows straightforward inference on quantities of interest such as covariate effects and offers a coherent framework for model comparison. 
 
 **Suspension of Payments and their Consequences** with Christoffer Koch, Qian Chen and Gary Richardson
 
