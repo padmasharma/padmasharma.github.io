@@ -70,7 +70,7 @@ Bayesian methods to estimate latent class models have been developed and impleme
 I have been a TA for the following classes at UC Irvine.
 
 #### Graduate
-Econometrics (Winter 2016, Spring 2016, Spring 2017, Spring 2018), Probability and Statistics (Summer 2016)
+Econometrics (Winter 2016, Spring 2016, Spring 2017, Spring 2018), Probability and Statistics (Summer 2016), Computational Camp (Summer 2016)
 
 #### Upper Division
 Econometrics II (Winter 2017, Winter 2018), Cultural Economics (Summer 2016), Applied Econometrics I (Fall 2016), Applied Econometrics II (Fall 2015), Game Theory (Summer 2015), Managerial Economics (Spring 2015)
