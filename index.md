@@ -28,7 +28,7 @@ Irvine, CA 92697-5100</font></p>
 
 My research interests span the union of two fields - Econometrics and Financial Economics and involve the development of Econometric methods that address research questions pertaining to banking and financial stability. I will be graduating in June 2019 from the University of California Irvine with a PhD in Economics.  I am currently on the job market and will be at the ASSA meetings at Atlanta between January 4-6, 2019.
 
-In my <a href="https://drive.google.com/open?id=1nxJe7RI9TxIAs7UxJjmDuNqgMk2Pto1u" target="_blank">job market paper</a> , I have studied studies the responses of regulators in the banking and Savings and Loans (S&L) industries to widespread failures. This paper develops an efficient algorithm to estimate Bayesian latent class models that uncover heterogeneity in regulators' decision rules. The econometric method permits normative inferences on the appropriateness of regulatory actions by providing a framework for the comparison of observed responses with benchmarks from theoretical models of optimal resolution.      
+In my <a href="https://drive.google.com/open?id=1nxJe7RI9TxIAs7UxJjmDuNqgMk2Pto1u" target="_blank">job market paper</a> , I assess the responses of U.S. regulators in the banking and Savings and Loans (S&L) industries to widespread failures by comparing observed responses with benchmarks from theoretical models of optimal failure resolution.      
 
 I was a dissertation intern at the Federal Reserve Bank of New York during June-September 2018 and a recipient of the Graduate Dean's Dissertation Fellowship in UCI over Summer and Fall 2018. 
 
