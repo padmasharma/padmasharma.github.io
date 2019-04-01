@@ -26,7 +26,7 @@ Irvine, CA 92697-5100</font></p>
 </tbody>
 </table>
 
-My research interests span the union of two fields - Econometrics and Financial Economics and involve the development of Econometric methods that address research questions pertaining to banking and financial stability. I will be graduating in June 2019 from the University of California Irvine with a PhD in Economics.  I am currently on the job market and will be at the ASSA meetings at Atlanta between January 4-6, 2019.
+My research interests span the union of two fields - Econometrics and Financial Economics and involve the development of Econometric methods that address research questions pertaining to banking and financial stability. I will be graduating in June 2019 from the University of California Irvine with a PhD in Economics and will subsequently be joining the Federal Reserve Bank of Kansas City.
 
 In my <a href="https://drive.google.com/open?id=1nxJe7RI9TxIAs7UxJjmDuNqgMk2Pto1u" target="_blank">job market paper</a> , I assess the responses of U.S. regulators in the banking and Savings and Loans (S&L) industries to widespread failures by comparing observed responses with benchmarks from theoretical models of optimal failure resolution.      
 
