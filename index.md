@@ -1,6 +1,6 @@
 --- 
 layout: page
-subtitle: PhD candidate in Economics
+subtitle: 
 ---
 <style>
 body {
@@ -14,13 +14,12 @@ text-align: justify}
 src="http://padmasharma.github.io/img/profilePhoto3.jpg" width="WIDTHpx"></a>&nbsp;</font></td>
 <td align="left" style="width:400px;height:200px">
    <p><font size="5"><b>Padma Sharma</b></font><br>
-      <font color="#9b9999" size="4"><b>PhD candidate in Economics</b></font><br>
+      <font color="#9b9999" size="4"><b>Economist</b></font><br>
    <hr width = "80%" margin-left:0 align="left" border="1px" color = "918f8f"></p>
-<p><font size="3"><b>Email:</b> padmas[at]uci.edu</font><br>
+<p><font size="3"><b>Email:</b> padma.sharma[at]kc.frb.org</font><br>
 <font size="3"><b>Address:</b> 
-<a href="https://www.economics.uci.edu/grad/index.php/" target="_blank">UCI Department of Economics</a><br>
-3151 Social Science Plaza<br>
-Irvine, CA 92697-5100</font></p>
+Federal Reserve Bank of Kansas City<br>1 Memorial Drive<br>
+Kansas City, MO 64198</font></p>
 </td>
 </tr>
 </tbody>
