@@ -26,9 +26,9 @@ Irvine, CA 92697-5100</font></p>
 </tbody>
 </table>
 
-My research interests span the union of two fields - Econometrics and Financial Economics and involve the development of Econometric methods that address research questions pertaining to banking and financial stability. I will be graduating in June 2019 from the University of California Irvine with a PhD in Economics and will subsequently be joining the Federal Reserve Bank of Kansas City.
+I am an Economist at the Federal Reserve Bank of Kansas City. I completed my PhD in Economics from the University of California at Irivne in June 2019. My research interests span the union of two fields - Econometrics and Financial Economics and involve the development of Econometric methods that address research questions pertaining to banking and financial stability. 
 
-In my <a href="https://drive.google.com/open?id=1nxJe7RI9TxIAs7UxJjmDuNqgMk2Pto1u" target="_blank">job market paper</a> , I assess the responses of U.S. regulators in the banking and Savings and Loans (S&L) industries to widespread failures by comparing observed responses with benchmarks from theoretical models of optimal failure resolution.      
+In my <a href="https://drive.google.com/open?id=1nxJe7RI9TxIAs7UxJjmDuNqgMk2Pto1u" target="_blank">current research</a> , I assess the responses of U.S. regulators in the banking and Savings and Loans (S&L) industries to widespread failures by comparing observed responses with benchmarks from theoretical models of optimal failure resolution.      
 
 I was a dissertation intern at the Federal Reserve Bank of New York during June-September 2018 and a recipient of the Graduate Dean's Dissertation Fellowship in UCI over Summer and Fall 2018. 
 
