@@ -20,13 +20,13 @@ src="http://padmasharma.github.io/img/profilePhoto3.jpg" width="WIDTHpx"></a>&nb
 <font size="3"><b>Address:</b> 
 Federal Reserve Bank of Kansas City<br>1 Memorial Drive<br>
 Kansas City, MO 64198</font></p>
-<p> </p>
-<p><font size="1"><i>The views expressed herein are my own and do not represent the Federal Reserve Bank of Kansas City or the Federal Reserve System.</i></p>
 </td>
 </tr>
 </tbody>
 </table>
 
+<font size="1"><i>The views expressed herein are my own and do not represent the views of the Federal Reserve Bank of Kansas City or the Federal Reserve System.</i>
+   
 I am an Economist at the Federal Reserve Bank of Kansas City. I completed my PhD in Economics from the University of California at Irivne in June 2019. My research interests span the union of two fields - Econometrics and Financial Economics and involve the development of Econometric methods that address research questions pertaining to banking and financial stability. 
 
 In my <a href="https://drive.google.com/open?id=1nxJe7RI9TxIAs7UxJjmDuNqgMk2Pto1u" target="_blank">current research</a> , I assess the responses of U.S. regulators in the banking and Savings and Loans (S&L) industries to widespread failures by comparing observed responses with benchmarks from theoretical models of optimal failure resolution.      
