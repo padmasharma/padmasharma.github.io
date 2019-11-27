@@ -20,6 +20,8 @@ src="http://padmasharma.github.io/img/profilePhoto3.jpg" width="WIDTHpx"></a>&nb
 <font size="3"><b>Address:</b> 
 Federal Reserve Bank of Kansas City<br>1 Memorial Drive<br>
 Kansas City, MO 64198</font></p>
+<p> </p>
+<font size="1"><i>The views expressed herein are my own and do not represent the Federal Reserve Bank of Kansas City or the Federal Reserve System.</i>
 </td>
 </tr>
 </tbody>
