@@ -43,10 +43,9 @@ An overview of my working papers and research projects in progress.
 
 #### Working Papers
 
-<a href="https://drive.google.com/open?id=1nxJe7RI9TxIAs7UxJjmDuNqgMk2Pto1u" target="_blank">Assessing Regulatory Responses to Troubled Banks (submitted) </a>
+<a href="https://drive.google.com/open?id=1nxJe7RI9TxIAs7UxJjmDuNqgMk2Pto1u" target="_blank">Assessing Regulatory Responses to Banking Crises (submitted) </a>
 
-When banks fail, public assessment of regulatory actions consists of opposition to specific bailouts or liquidations. Instead, regulators need to be evaluated against their objectives of protecting financial stability while discouraging moral hazard. I
-evaluate banking and savings and loan (S&L) regulators during the 1980's crises against these competing objectives using a Bayesian latent class model. My results show that the banking authority (FDIC) conformed to these objectives whereas the S&L regulator (FSLIC), which subsequently became insolvent, deviated from them. Timely interventions based on this evaluation framework could have redressed the FSLIC's decision structure and prevented losses to taxpayers.
+During banking crises, the public criticizes regulators for bailouts or liquidations of specific banks. A comprehensive assessment of regulators, however, requires examining all their decisions against regulators' objectives of preserving financial stability while discouraging moral hazard. I develop a Bayesian latent class model to assess regulators on these competing objectives and evaluate banking and savings and loan (S & L) regulators during the 1980's crises. I find the banking authority (FDIC) conformed to these objectives whereas the S & L regulator (FSLIC), which subsequently became insolvent, deviated from them. Timely interventions based on this evaluation could have redressed the FSLIC's decision structure and prevented losses to taxpayers.
 
 <a href="https://drive.google.com/file/d/1O7xGlZXdaysFSBUsP4f9XppBccAl3eGH/view?usp=sharing" target="_blank">Risk-shifting, Regulation and Government Assistance </a>
 
