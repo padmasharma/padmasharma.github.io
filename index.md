@@ -56,17 +56,12 @@ This paper examines the moral hazard effects of lax regulatory and resolution st
 This paper develops an econometric method to determine the presence of household-level heterogeneity in relationships between consumer expectations, that are typically recorded as ordered responses in consumer surveys, and household demographic characteristics. This method extends the hierarchical Bayesian algorithm developed by Chen and Dunson (2003) for continuous outcomes and draws on the informational value of the presence of random coefficients, namely, as evidence in favor of heterogeneity in relationships between the outcome and explanatory variables. The algorithm selects covariates that have random coefficients associated with them by exploring the model space of all possible combinations of random coefficients. This study provides a framework for computing overall marginal effects that combine the fixed and random effects of each coefficient using output from the estimation algorithm. The application of this method on data from the Survey of Consumer Expectations shows that for the same change in income category and health status, households adjust their expectation of financial position and credit access differently. These findings demonstrate the intrinsic heterogeneity in household-level models for forming expectations and support the increasing focus on incorporating heterogeneity of expectations within macroeconomic models.  
 
 
-
-
 #### Work In Progress
 
 **Efficient Bayesian Estimation of the Mixed Logit Model** with Ivan Jeliazkov and Kai Yoshioka
 
 **Bayesian Inference with Synthetic Control Methods** with Christoffer Koch and Gary Richardson
 
-**Bayesian Joint Modeling with Shape Constraints** with Trambak Banerjee
-
-**Competitive Effects of Bank and Thrift Rescues: Evidence from Bank-level Portfolios**
 
 ### Teaching
 I have been a TA for the following classes at UC Irvine.
