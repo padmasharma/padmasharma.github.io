@@ -26,7 +26,7 @@ Kansas City, MO 64198</font></p>
 
 <p><font size="3"><i>The views expressed herein are my own and do not represent the views of the Federal Reserve Bank of Kansas City or the Federal Reserve System.</i></font></p>
    
-I am an Economist at the Federal Reserve Bank of Kansas City. I completed my PhD in Economics from the University of California at Irivne in June 2019. My research interests span the union of two fields - Econometrics and Financial Economics and involve the development of Econometric methods that address research questions pertaining to banking and financial stability. 
+I am an Economist at the Federal Reserve Bank of Kansas City. I completed my PhD in Economics from the University of California at Irvine in June 2019. My research interests span the union of two fields - Econometrics and Financial Economics and involve the development of Econometric methods that address research questions pertaining to banking and financial stability. 
 
  
 __Research Interests__: Econometrics, Financial Economics, Computational Statistics and Macroeconomics
