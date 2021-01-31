@@ -15,7 +15,7 @@ src="http://padmasharma.github.io/img/profilePhoto3.jpg" width="WIDTHpx"></a>&nb
 <td align="left" style="width:400px;height:200px">
    <p><font size="5"><b>Padma Sharma</b></font><br>
       <font color="#9b9999" size="4"><b>Economist</b></font><br>
- <hr width = "80%" margin-left:0 align="left" border="1px" color = "918f8f"></p>
+      <hr width = "80%" margin-left:0 align="left" border="1px" color = "918f8f"></p>
 <p><font size="3"><b>Email:</b> padma.sharma[at]kc.frb.org</font><br>
 <font size="3"><b>Address:</b> 
 Federal Reserve Bank of Kansas City<br>1 Memorial Drive<br>
