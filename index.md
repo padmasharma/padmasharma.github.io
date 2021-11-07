@@ -11,7 +11,7 @@ text-align: justify}
 <tr>
 <td style="width:350px;height:200px">
 <font color="#0b5394" face="georgia, serif"><a href="IMGLINKTARGET"><img alt="alt text" height="HEIGHTpx" 
-src="http://padmasharma.github.io/img/profilePhoto3.jpg" width="WIDTHpx"></a>&nbsp;</font></td>
+src="http://padmasharma.github.io/img/Padma_Sharma_004.jpg" width="WIDTHpx"></a>&nbsp;</font></td>
 <td align="left" style="width:400px;height:200px">
    <p><font size="5"><b>Padma Sharma</b></font><br>
    <font color="#9b9999" size="4"><b>Economist</b></font><br></p>
