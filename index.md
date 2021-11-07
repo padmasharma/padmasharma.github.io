@@ -26,16 +26,21 @@ Kansas City, MO 64198</font></p>
 
 <p><font size="3"><i>The views expressed herein are my own and do not represent the views of the Federal Reserve Bank of Kansas City or the Federal Reserve System.</i></font></p>
    
-I am an Economist at the Federal Reserve Bank of Kansas City. I completed my PhD in Economics from the University of California at Irvine in June 2019. My research interests span the union of two fields - Econometrics and Financial Economics and involve the development of Econometric methods that address research questions pertaining to banking and financial stability. 
+I am an Economist at the Federal Reserve Bank of Kansas City. I completed my PhD in Economics from the University of California at Irvine in June 2019. My research interests span the union of two fields - Econometrics and Financial Economics and involve the development of Econometric methods that address research questions pertaining to banking and financial institutions. 
 
  
-__Research Interests__: Econometrics, Financial Economics, Computational Statistics and Macroeconomics
+__Research Interests__: Econometrics, Banking and Financial Institutions, and Computational Statistics
 
 ### Research 
 
 An overview of my working papers and research projects in progress. 
 
 #### Working Papers
+
+<a href="https://drive.google.com/file/d/15fEPvMO6Q-85TENKHmICg60m-BT_CtEV/view?usp=sharing" target="_blank">Government Loan Guarantees in a Crisis: Bank
+Protections from Firm Safety Nets </a>
+
+We quantify the effects of the Paycheck Protection Program (PPP) on bank balance sheets and profitability by addressing two levels of selection effects that are typically overlooked in the literature. We explicitly model banks' decisions regarding whether, and by how much to participate in the program. We find that banks that disbursed larger shares of PPP loans relative to their loan base experienced sizable growth in their lending, but a decline in their interest margins, and no measurable effects on risk-taking. Notably, in counterfactual exercises, we find that the PPP averted a credit crunch by offsetting a large potential contraction in business lending. Moreover, we find salient selection effects--lenders with greater funding capacity and at higher risk of losses from exposure to business loans were more likely to participate in the program, and to participate more intensively. These results suggest that in the absence of federal guarantees, banks would have been unlikely to risk their own capital and meet the credit needs of firms during the pandemic.
 
 <a href="https://drive.google.com/open?id=1nxJe7RI9TxIAs7UxJjmDuNqgMk2Pto1u" target="_blank">Assessing Regulatory Responses to Banking Crises (submitted) </a>
 
