@@ -26,8 +26,13 @@ Kansas City, MO 64198</font></p>
 
 <p><font size="3"><i>The views expressed herein are my own and do not represent the views of the Federal Reserve Bank of Kansas City or the Federal Reserve System.</i></font></p>
    
-I am an Economist at the Federal Reserve Bank of Kansas City. I completed my PhD in Economics from the University of California at Irvine in June 2019. My research interests span the union of two fields - Econometrics and Financial Economics and involve the development of Econometric methods that address research questions pertaining to banking and financial institutions. 
+I am an Economist at the Federal Reserve Bank of Kansas City. As an economist in the Research Department, I provide policy support by examining salient developments and risks in banking and financial markets. My research interests span the union of two fields - Econometrics and Financial Economics. 
 
+My <a href="https://drive.google.com/file/d/15fEPvMO6Q-85TENKHmICg60m-BT_CtEV/view?usp=sharing" target="_blank">recent working paper</a> with Blake Marsh examines the effects of the PPP on bank balance sheets and profitability. We show through counterfactual analysis that a credit crunch would have ensued in the absence of the program. 
+
+In <a href="https://drive.google.com/open?id=1nxJe7RI9TxIAs7UxJjmDuNqgMk2Pto1u" target="_blank">other recent research</a>, I have developed a new Bayesian estimation method for latent class models to evaluate the performance of the FDIC and the FSLIC during the simultaneous crises in the banking and the Savings and Loans industries. I show that the FDIC's decisions were consistent with, and the FSLIC deviated from optimal resolution rules from theoretical studies.   
+
+I completed my PhD in Economics from the University of California at Irvine in June 2019.
  
 __Research Interests__: Econometrics, Banking and Financial Institutions, and Computational Statistics
 
