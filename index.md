@@ -28,12 +28,6 @@ Kansas City, MO 64198</font></p>
    
 I am an Economist at the Federal Reserve Bank of Kansas City. As an economist in the Research Department, I provide policy support by examining salient developments and risks in banking and financial markets. My research interests span the union of two fields - Econometrics and Financial Economics. 
 
-My <a href="https://drive.google.com/file/d/15fEPvMO6Q-85TENKHmICg60m-BT_CtEV/view?usp=sharing" target="_blank">recent working paper</a> with Blake Marsh examines the effects of the PPP on bank balance sheets and profitability. We show, through counterfactual analysis, that a credit crunch would have ensued in the absence of the program. 
-
-In <a href="https://drive.google.com/open?id=1nxJe7RI9TxIAs7UxJjmDuNqgMk2Pto1u" target="_blank">other recent research</a>, I have developed a new Bayesian estimation method for latent class models to evaluate the performance of the FDIC and the FSLIC during the simultaneous crises in the banking and the Savings and Loans industries during the Eighties. I show that the FDIC's decisions were consistent with, and the FSLIC deviated from optimal resolution rules from theoretical studies.   
-
-I completed my PhD in Economics from the University of California at Irvine in June 2019.
- 
 __Research Interests__: Econometrics, Banking and Financial Institutions, and Computational Statistics
 
 ### Research 
@@ -47,20 +41,20 @@ An overview of my publications and research projects in progress.
 #### Working Papers
 
 <a href="https://drive.google.com/file/d/15fEPvMO6Q-85TENKHmICg60m-BT_CtEV/view?usp=sharing" target="_blank"> Government Loan Guarantees in a Crisis: Bank
-Protections from Firm Safety Nets </a>, 
-with Blake Marsh
+Protections from Firm Safety Nets </a>,  <br>
+with Blake Marsh  <br>
 revise and resubmit at *Journal of Financial Stability*  
 
-<a href="https://padmasharma.github.io/index#research" target="_blank"> Nonparametric Empirical Bayes Prediction in Mixed Models </a>, 
-with Trambak Banerjee
+<a href="https://padmasharma.github.io/index#research" target="_blank"> Nonparametric Empirical Bayes Prediction in Mixed Models </a>,  <br>
+with Trambak Banerjee  <br>
 revise and resubmit at *Management Science*  
 
-<a href="https://arxiv.org/pdf/2208.03908.pdf" target="_blank"> Do financial regulators act in the public’s interest? A Bayesian latent class estimation framework for assessing regulatory responses to banking crises </a>,
-with Trambak Banerjee
+<a href="https://arxiv.org/pdf/2208.03908.pdf" target="_blank"> Do financial regulators act in the public’s interest? A Bayesian latent class estimation framework for assessing regulatory responses to banking crises </a>,  <br>
+with Trambak Banerjee  <br>
 under review 
 
-<a href="https://www.nber.org/papers/w27733" target="_blank"> Payments Crises and Consequences (NBER Working Paper 27733)</a>, 
-with Qian Chen, Christoffer Koch, and Gary Richardson,  
+<a href="https://www.nber.org/papers/w27733" target="_blank"> Payments Crises and Consequences (NBER Working Paper 27733)</a>,  <br>
+with Qian Chen, Christoffer Koch, and Gary Richardson,   <br>
 under review
 
 <a href="https://drive.google.com/file/d/1O7xGlZXdaysFSBUsP4f9XppBccAl3eGH/view?usp=sharing" target="_blank">Risk-shifting, Regulation and Government Assistance </a>
@@ -69,7 +63,7 @@ under review
 
 **Efficient Bayesian Estimation of the Mixed Logit Model** with Ivan Jeliazkov and Kai Yoshioka
 
-**Bayesian Inference with Synthetic Control Methods** with Christoffer Koch and Gary Richardson
+**Detecting Structural Change in Time Varying Parameters of Panel Models** with Trambak Banerjee
 
 ### CV
 The latest version of my CV can be accessed <a href="https://drive.google.com/open?id=1aGYIOJTrBeIqL8NfK3GOPCAvdHtbn0-w" target="_blank">here</a>
