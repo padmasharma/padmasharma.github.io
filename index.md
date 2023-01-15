@@ -30,7 +30,6 @@ I am an Economist at the Federal Reserve Bank of Kansas City. As an economist in
 
 __Curriculum Vitae__: The latest version of my CV can be accessed <a href="https://drive.google.com/open?id=1aGYIOJTrBeIqL8NfK3GOPCAvdHtbn0-w" target="_blank">here</a>
 
-
 __Research Interests__: Econometrics, Banking and Financial Institutions, and Computational Statistics
 
 ### Research 
