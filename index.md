@@ -49,7 +49,7 @@ revise and resubmit at *Journal of Financial Stability*
 
 <a href="https://padmasharma.github.io/index#research" target="_blank"> Nonparametric Empirical Bayes Prediction in Mixed Models </a> <br>
 with Trambak Banerjee  <br>
-revise and resubmit at *Management Science*  
+major revision at *Management Science*  
 
 <a href="https://arxiv.org/pdf/2208.03908.pdf" target="_blank"> Do financial regulators act in the public’s interest? A Bayesian latent class estimation framework for assessing regulatory responses to banking crises </a>  <br>
 with Trambak Banerjee  <br>
