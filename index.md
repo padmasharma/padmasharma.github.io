@@ -75,7 +75,7 @@ with Trambak Banerjee
 with Jacob Dice <br>
 *Economic Bulletin*, April 2022
 
-<a href="[https://www.kansascityfed.org/research/economic-bulletin/dampened-demand-for-bank-loans-reflects-supply-bottlenecks-not-a-weakness-in-the-recovery/" target="_blank">\PPP Raised Community Bank Revenue but Lowered Profitability" </a> <br>
+<a href="[https://www.kansascityfed.org/research/economic-bulletin/dampened-demand-for-bank-loans-reflects-supply-bottlenecks-not-a-weakness-in-the-recovery/" target="_blank"> PPP Raised Community Bank Revenue but Lowered Profitability" </a> <br>
 with Blake Marsh <br>
 *Economic Bulletin*, December 2020
 
