@@ -28,6 +28,9 @@ Kansas City, MO 64198</font></p>
    
 I am an Economist at the Federal Reserve Bank of Kansas City. As an economist in the Research Department, I provide policy support by examining salient developments and risks in banking and financial markets. My research interests span the union of two fields - Econometrics and Financial Economics. 
 
+__Curriculum Vitae__: The latest version of my CV can be accessed <a href="https://drive.google.com/open?id=1aGYIOJTrBeIqL8NfK3GOPCAvdHtbn0-w" target="_blank">here</a>
+
+
 __Research Interests__: Econometrics, Banking and Financial Institutions, and Computational Statistics
 
 ### Research 
@@ -71,11 +74,11 @@ with Trambak Banerjee
 <a href="https://doi.org/10.18651/ER/v107n3Sharma" target="_blank">Government Assistance and Moral Hazard: Evidence from the Savings and Loan Crisis </a> <br>
 *Economic Review*, Volume 107, Number 3 2022
 
-<a href="[https://www.kansascityfed.org/research/economic-bulletin/dampened-demand-for-bank-loans-reflects-supply-bottlenecks-not-a-weakness-in-the-recovery/" target="_blank">Dampened Demand for Bank Loans Reflects Supply Bottlenecks, Not a Weakness in the Recovery </a> <br>
+<a href="https://www.kansascityfed.org/research/economic-bulletin/dampened-demand-for-bank-loans-reflects-supply-bottlenecks-not-a-weakness-in-the-recovery/" target="_blank">Dampened Demand for Bank Loans Reflects Supply Bottlenecks, Not a Weakness in the Recovery </a> <br>
 with Jacob Dice <br>
 *Economic Bulletin*, April 2022
 
-<a href="[https://www.kansascityfed.org/research/economic-bulletin/dampened-demand-for-bank-loans-reflects-supply-bottlenecks-not-a-weakness-in-the-recovery/" target="_blank"> PPP Raised Community Bank Revenue but Lowered Profitability" </a> <br>
+<a href="https://www.kansascityfed.org/research/economic-bulletin/dampened-demand-for-bank-loans-reflects-supply-bottlenecks-not-a-weakness-in-the-recovery/" target="_blank"> PPP Raised Community Bank Revenue but Lowered Profitability" </a> <br>
 with Blake Marsh <br>
 *Economic Bulletin*, December 2020
 
@@ -83,7 +86,5 @@ with Blake Marsh <br>
 with Christoffer Koch, Qian Chen and Gary Richardson <br>
 *Economic Review*, Volume 105, Number 2 2020
 
-### CV
-The latest version of my CV can be accessed <a href="https://drive.google.com/open?id=1aGYIOJTrBeIqL8NfK3GOPCAvdHtbn0-w" target="_blank">here</a>
 
 
