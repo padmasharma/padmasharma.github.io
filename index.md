@@ -28,7 +28,7 @@ Kansas City, MO 64198</font></p>
    
 I am an Economist at the Federal Reserve Bank of Kansas City. As an economist in the Research Department, I provide policy support by examining salient developments and risks in banking and financial markets. My research interests span the union of two fields - Econometrics and Financial Economics. 
 
-__Curriculum Vitae__: The latest version of my CV can be accessed <a href="padmasharma.github.io/documents/SharmaCV.pdf" target="_blank">here</a>
+__Curriculum Vitae__: The latest version of my CV can be accessed <a href="https://padmasharma.github.io/documents/SharmaCV.pdf" target="_blank">here</a>
 
 __Research Interests__: Econometrics, Banking and Financial Institutions, and Computational Statistics
 
