@@ -41,23 +41,24 @@ An overview of my publications and research projects in progress.
 #### Working Papers
 
 <a href="https://drive.google.com/file/d/15fEPvMO6Q-85TENKHmICg60m-BT_CtEV/view?usp=sharing" target="_blank"> Government Loan Guarantees in a Crisis: Bank
-Protections from Firm Safety Nets </a>,  <br>
+Protections from Firm Safety Nets </a>  <br>
 with Blake Marsh  <br>
 revise and resubmit at *Journal of Financial Stability*  
 
-<a href="https://padmasharma.github.io/index#research" target="_blank"> Nonparametric Empirical Bayes Prediction in Mixed Models </a>,  <br>
+<a href="https://padmasharma.github.io/index#research" target="_blank"> Nonparametric Empirical Bayes Prediction in Mixed Models </a> <br>
 with Trambak Banerjee  <br>
 revise and resubmit at *Management Science*  
 
-<a href="https://arxiv.org/pdf/2208.03908.pdf" target="_blank"> Do financial regulators act in the public’s interest? A Bayesian latent class estimation framework for assessing regulatory responses to banking crises </a>,  <br>
+<a href="https://arxiv.org/pdf/2208.03908.pdf" target="_blank"> Do financial regulators act in the public’s interest? A Bayesian latent class estimation framework for assessing regulatory responses to banking crises </a>  <br>
 with Trambak Banerjee  <br>
 under review 
 
-<a href="https://www.nber.org/papers/w27733" target="_blank"> Payments Crises and Consequences (NBER Working Paper 27733)</a>,  <br>
-with Qian Chen, Christoffer Koch, and Gary Richardson,   <br>
+<a href="https://www.nber.org/papers/w27733" target="_blank"> Payments Crises and Consequences (NBER Working Paper 27733)</a>  <br>
+with Qian Chen, Christoffer Koch, and Gary Richardson   <br>
 under review
 
-<a href="https://drive.google.com/file/d/1O7xGlZXdaysFSBUsP4f9XppBccAl3eGH/view?usp=sharing" target="_blank">Risk-shifting, Regulation and Government Assistance </a>
+<a href="https://www.kansascityfed.org/research/research-working-papers/risk-shifting-regulation-government-assistance-2019/" target="_blank">Risk-shifting, Regulation and Government Assistance </a> <br>
+with Trambak Banerjee  
 
 #### Work In Progress
 
@@ -67,19 +68,19 @@ under review
 
 ### Policy
 
-<a href="https://doi.org/10.18651/ER/v107n3Sharma" target="_blank">Government Assistance and Moral Hazard: Evidence from the Savings and Loan Crisis </a>, <br>
+<a href="https://doi.org/10.18651/ER/v107n3Sharma" target="_blank">Government Assistance and Moral Hazard: Evidence from the Savings and Loan Crisis </a> <br>
 *Economic Review*, Volume 107, Number 3 2022
 
-<a href="[https://www.kansascityfed.org/research/economic-bulletin/dampened-demand-for-bank-loans-reflects-supply-bottlenecks-not-a-weakness-in-the-recovery/" target="_blank">Dampened Demand for Bank Loans Reflects Supply Bottlenecks, Not a Weakness in the Recovery </a>, <br>
+<a href="[https://www.kansascityfed.org/research/economic-bulletin/dampened-demand-for-bank-loans-reflects-supply-bottlenecks-not-a-weakness-in-the-recovery/" target="_blank">Dampened Demand for Bank Loans Reflects Supply Bottlenecks, Not a Weakness in the Recovery </a> <br>
 with Jacob Dice <br>
 *Economic Bulletin*, April 2022
 
-<a href="[https://www.kansascityfed.org/research/economic-bulletin/dampened-demand-for-bank-loans-reflects-supply-bottlenecks-not-a-weakness-in-the-recovery/" target="_blank">\PPP Raised Community Bank Revenue but Lowered Profitability" </a>, <br>
+<a href="[https://www.kansascityfed.org/research/economic-bulletin/dampened-demand-for-bank-loans-reflects-supply-bottlenecks-not-a-weakness-in-the-recovery/" target="_blank">\PPP Raised Community Bank Revenue but Lowered Profitability" </a> <br>
 with Blake Marsh <br>
 *Economic Bulletin*, December 2020
 
-<a href="https://doi.org/10.18651/ER/v105n2Sharma" target="_blank">The Macroeconomic Fallout of Shutting Down the Banking System </a>, <br>
-with Christoffer Koch, Qian Chen and Gary Richardson
+<a href="https://doi.org/10.18651/ER/v105n2Sharma" target="_blank">The Macroeconomic Fallout of Shutting Down the Banking System </a> <br>
+with Christoffer Koch, Qian Chen and Gary Richardson <br>
 *Economic Review*, Volume 105, Number 2 2020
 
 ### CV
