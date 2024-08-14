@@ -26,7 +26,7 @@ Kansas City, MO 64198</font></p>
 
 <p><font size="3"><i>The views expressed herein are my own and do not represent the views of the Federal Reserve Bank of Kansas City or the Federal Reserve System.</i></font></p>
    
-I am an Economist at the Federal Reserve Bank of Kansas City. As an economist in the Research Department, I provide policy support by examining salient developments and risks in banking and financial markets. My research interests span the union of two fields - Econometrics and Financial Economics. 
+I am a Senior Economist at the Federal Reserve Bank of Kansas City. As an economist in the Research Department, I provide policy support by examining salient developments and risks in banking and financial markets. My research interests span the union of two fields - Econometrics and Financial Economics. 
 
 __Curriculum Vitae__: The latest version of my CV can be accessed <a href="https://padmasharma.github.io/documents/SharmaCV.pdf" target="_blank">here</a>
 
@@ -38,26 +38,23 @@ An overview of my publications and research projects in progress.
 
 #### Publications
 
-<a href="https://doi.org/10.1080/02664763.2022.2151989" target="_blank">Selection of random coefficients in ordered response models: a framework to detect heterogeneity in household surveys </a>, *Journal of Applied Statistics*, forthcoming
+<a href="https://doi.org/10.1080/02664763.2022.2151989" target="_blank">"Loan Guarantees in a Crisis: An Antidote to a Credit Crunch? </a>, *Journal of Financial Stability*, Journal of Financial Stability, Volume 72, 2024, p.101244.
+
+<a href="https://doi.org/10.1080/02664763.2022.2151989" target="_blank">Selection of random coefficients in ordered response models: a framework to detect heterogeneity in household surveys </a>, *Journal of Applied Statistics*, Journal of Applied Statistics, Volume 51, 2024 - Issue 4, pp. 682-700.
 
 #### Working Papers
-
-<a href="https://drive.google.com/file/d/15fEPvMO6Q-85TENKHmICg60m-BT_CtEV/view?usp=sharing" target="_blank"> Government Loan Guarantees in a Crisis: Bank
-Protections from Firm Safety Nets </a>  <br>
-with Blake Marsh  <br>
-revise and resubmit at *Journal of Financial Stability*  
 
 <a href="https://padmasharma.github.io/index#research" target="_blank"> Nonparametric Empirical Bayes Prediction in Mixed Models </a> <br>
 with Trambak Banerjee  <br>
 major revision at *Management Science*  
 
+<a href="https://www.nber.org/papers/w27733" target="_blank"> Payments Crises and Consequences (NBER Working Paper 27733)</a>  <br>
+with Qian Chen, Christoffer Koch, and Gary Richardson   <br>
+Revise and Resubmit at *Journal of Financial Stability*  
+
 <a href="https://arxiv.org/pdf/2208.03908.pdf" target="_blank"> Do financial regulators act in the public’s interest? A Bayesian latent class estimation framework for assessing regulatory responses to banking crises </a>  <br>
 with Trambak Banerjee  <br>
 under review 
-
-<a href="https://www.nber.org/papers/w27733" target="_blank"> Payments Crises and Consequences (NBER Working Paper 27733)</a>  <br>
-with Qian Chen, Christoffer Koch, and Gary Richardson   <br>
-under review
 
 <a href="https://www.kansascityfed.org/research/research-working-papers/risk-shifting-regulation-government-assistance-2019/" target="_blank">Risk-shifting, Regulation and Government Assistance </a> <br>
 with Trambak Banerjee  
