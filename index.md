@@ -77,7 +77,7 @@ with Chris Acker and Blake Marsh <br>
 with Brendan Laliberte and Blake Marsh <br>
 *Economic Bulletin*, December 2023
 
-<a href="https://doi.org/10.18651/ER/v107n3Sharma" target="_blank">Government Assistance and Moral Hazard: Evidence from the Savings and Loan Crisis </a> <br>
+<a href="https://doi.org/10.18651/ER/v107n3Sharma" target="https://doi.org/10.18651/ER/v107n3Sharma">Government Assistance and Moral Hazard: Evidence from the Savings and Loan Crisis </a> <br>
 *Economic Review*, Volume 107, Number 3 2022
 
 <a href="https://www.kansascityfed.org/research/economic-bulletin/dampened-demand-for-bank-loans-reflects-supply-bottlenecks-not-a-weakness-in-the-recovery/" target="_blank">Dampened Demand for Bank Loans Reflects Supply Bottlenecks, Not a Weakness in the Recovery </a> <br>
@@ -88,7 +88,7 @@ with Jacob Dice <br>
 with Blake Marsh <br>
 *Economic Bulletin*, December 2020
 
-<a href="https://doi.org/10.18651/ER/v105n2Sharma" target="_blank">The Macroeconomic Fallout of Shutting Down the Banking System </a> <br>
+<a href="https://doi.org/10.18651/ER/v105n2Sharma" target="https://doi.org/10.18651/ER/v105n2Sharma">The Macroeconomic Fallout of Shutting Down the Banking System </a> <br>
 with Christoffer Koch, Qian Chen and Gary Richardson <br>
 *Economic Review*, Volume 105, Number 2 2020
 
