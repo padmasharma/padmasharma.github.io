@@ -65,7 +65,7 @@ with Trambak Banerjee
 
 ### Policy
 
-<a href="https://doi.org/10.18651/ER/v109n8SharmaLaliberte" target="_blank"> A Stress Test of Bank Commercial Real Estate Loans: What Can the 1980s Tell Us About Risks to Banks Today? </a> <br>
+<a href="https://doi.org/10.18651/ER/v109n8SharmaLaliberte" target="https://doi.org/10.18651/ER/v109n8SharmaLaliberte"> A Stress Test of Bank Commercial Real Estate Loans: What Can the 1980s Tell Us About Risks to Banks Today? </a> <br>
 with Brendan Laliberte <br>
 *Economic Review*, Volume 109, Number 8 2024
 
