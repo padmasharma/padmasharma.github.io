@@ -38,21 +38,19 @@ An overview of my publications and research projects in progress.
 
 #### Publications
 
-<a href="https://arxiv.org/pdf/2208.03908.pdf" target="_blank"> "Do financial regulators act in the public’s interest? A Bayesian latent class estimation framework for assessing regulatory responses to banking crises" with Trambak Banerjee </a>, fortcoming at *Journal of the Royal Statistical Society: Series A*   
+<a href="https://www.nber.org/papers/w27733" target="_blank"> Suspensions of Payments and their Consequences (NBER Working Paper 27733) with Qian Chen, Christoffer Koch, and Gary Richardson </a>, accepted at *Journal of Financial Stability*  
 
-<a href="https://doi.org/10.1080/02664763.2022.2151989" target="_blank"> "Loan Guarantees in a Crisis: An Antidote to a Credit Crunch?" with Blake Marsh </a>, *Journal of Financial Stability*, Journal of Financial Stability, Volume 72, 2024, p.101244.
+<a href="https://arxiv.org/pdf/2208.03908.pdf" target="_blank"> "Do financial regulators act in the public’s interest? A Bayesian latent class estimation framework for assessing regulatory responses to banking crises" with Trambak Banerjee </a>, forthcoming at *Journal of the Royal Statistical Society: Series A*   
 
-<a href="https://doi.org/10.1080/02664763.2022.2151989" target="_blank">"Selection of random coefficients in ordered response models: a framework to detect heterogeneity in household surveys" </a>, *Journal of Applied Statistics*, Journal of Applied Statistics, Volume 51, 2024 - Issue 4, pp. 682-700.
+<a href="https://doi.org/10.1080/02664763.2022.2151989" target="_blank"> "Loan Guarantees in a Crisis: An Antidote to a Credit Crunch?" with Blake Marsh </a>, *Journal of Financial Stability*, Volume 72, 2024, p.101244.
+
+<a href="https://doi.org/10.1080/02664763.2022.2151989" target="_blank">"Selection of random coefficients in ordered response models: a framework to detect heterogeneity in household surveys" </a>, *Journal of Applied Statistics*, Volume 51, 2024 - Issue 4, pp. 682-700.
 
 #### Working Papers
 
 <a href="https://padmasharma.github.io/index#research" target="_blank"> Nonparametric Empirical Bayes Prediction in Mixed Models </a> <br>
 with Trambak Banerjee  <br>
 under revision  
-
-<a href="https://www.nber.org/papers/w27733" target="_blank"> Payments Crises and Consequences (NBER Working Paper 27733)</a>  <br>
-with Qian Chen, Christoffer Koch, and Gary Richardson   <br>
-Revise and Resubmit at *Journal of Financial Stability*  
 
 <a href="https://www.kansascityfed.org/research/research-working-papers/risk-shifting-regulation-government-assistance-2019/" target="_blank">Risk-shifting, Regulation and Government Assistance </a> <br>
 with Trambak Banerjee  
